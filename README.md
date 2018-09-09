@@ -7,9 +7,7 @@ First time experimenting
     <p>It is easy to get distracted with the pleasure of life. It is also easy to lose everything you thought you earned or deserve. What do you do if everything falls apart and you don't get what you want or expect? How do you stayed determined to better your future without feeling like a victim? Resiliency is a blessing, a gift, and a resource that ca prove invaluable to our journey in life.</p>
   
 <a href="https://www.merriam-webster.com/dictionary/determination" target="_blank">Merriam-webster's definition of determination</a>  
-
-<a href="http://freecatphotoapp.com" target="_blank">cat photos</a>
-  
-
+<a href="https://www.dictionary.com/browse/determination">Dictionary.com's definition of determination</a>
+<a href="https://en.wikipedia.org/wiki/Determination">Wikipedia's definition of determination</a>
 
 </body>
