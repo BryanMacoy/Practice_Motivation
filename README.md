@@ -8,6 +8,7 @@ First time experimenting
   
 <a href="https://www.merriam-webster.com/dictionary/determination" target="_blank">Merriam-webster's definition of determination</a>  
 <a href="https://www.dictionary.com/browse/determination" target="_blank">Dictionary.com's definition of determination</a>
+<br>
 <a href="https://en.wikipedia.org/wiki/Determination" target="_blank">Wikipedia's definition of determination</a>
 
 </body>
