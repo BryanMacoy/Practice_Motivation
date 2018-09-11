@@ -1,6 +1,8 @@
 # Practice_Motivation
 First time experimenting
 
+<p> Please look at other <a target="_blank" href="http://freecodecamp.org">motivational</a>topics.</p>
+
 <body>
   <h1> Determination</h1>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQArEyzfNHXzWFbWndYt8fZIsiEfEio4h3KOPeVjA4mDM-JXOA" alt="courage in spite of hopelessness">
@@ -11,7 +13,6 @@ First time experimenting
 <a href="https://www.dictionary.com/browse/determination" target="_blank">Dictionary.com's definition of determination</a>
 <br>
 <a href="https://en.wikipedia.org/wiki/Determination" target="_blank">Wikipedia's definition of determination</a>
-
 </body>
 
 <br>
