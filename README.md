@@ -29,3 +29,6 @@ First time experimenting
 
 <Footer id="videos">Enjoy</footer>
 
+  <a href="http://freecatphotoapp.com" target="_blank">cat photos</a>
+  <a target="_blank" href="http://freecatphotoapp.com">cat photos</a>
+  
