@@ -28,6 +28,8 @@ First time experimenting
     <li>A "victim" attitude</li>
   </ol>
 
+<input type="text" placeholder="What are your thoughts?">
+
 <br>
 <br>
 <br>
