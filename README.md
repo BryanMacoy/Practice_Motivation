@@ -28,7 +28,9 @@ First time experimenting
     <li>A "victim" attitude</li>
   </ol>
 
-<input type="text" placeholder="What are your thoughts?">
+<input type="text" placeholder="Thoughts">
+<input type="text" placeholder="cat photo URL">
+<main>
 
 <br>
 <br>
