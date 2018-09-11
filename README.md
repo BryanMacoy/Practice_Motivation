@@ -15,7 +15,19 @@ First time experimenting
 <a href="https://en.wikipedia.org/wiki/Determination" target="_blank">Wikipedia's definition of determination</a>
 </body>
 
-<br>
+<p>What strengthens determination:</p>
+  <ul>
+    <li>Intinsic motivation</li>
+    <li>Passion</li>
+    <li>Support</li>
+  </ul>
+  <p>What weakens determination:</p>
+  <ol>
+    <li>Failure</li>
+    <li>Rejection</li>
+    <li>A "victim" attitude</li>
+  </ol>
+
 <br>
 <br>
 <br>
