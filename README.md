@@ -1,7 +1,7 @@
 # Practice_Motivation
 First time experimenting
 
-<p> Please look at other <a target="_blank" href="http://freecodecamp.org">motivational</a>topics.</p>
+<p> Please look at other <a target="_blank" href="http://freecodecamp.org">motivational</a> topics.</p>
 
 <body>
   <h1> Determination</h1>
